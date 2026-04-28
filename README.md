@@ -1,4 +1,4 @@
-# 🚢 Batalha Naval em C - Nível Novato
+# 🚢 Batalha Naval - Nível Novato
 
 Projeto simples desenvolvido em linguagem C que simula um tabuleiro de Batalha Naval no console.
 
@@ -41,3 +41,19 @@ Projeto educativo em C com uso de matriz 10x10 para simular um tabuleiro de bata
 - Matrizes (arrays bidimensionais)
 - Loops aninhados
 - Lógica de posicionamento em linha e coluna
+
+# 🚢 Batalha Naval - Nível Mestre
+
+Neste nível foram implementados:
+
+## Sistema de poderes:
+
+-Cruz
+-Cone
+-Octaedro (losango)
+
+## 🧠 Conceitos utilizados
+
+-Uso de matrizes e loops aninhados
+-Validação de limites do tabuleiro
+-Aplicação dos poderes sem sobrescrever navios
