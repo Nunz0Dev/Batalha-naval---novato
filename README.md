@@ -21,8 +21,6 @@ N para navio 🚢
 - Condicionais (if/else)
 - Lógica de posicionamento em grade
 
-////////////////////////////////////////////////////////////////////////////////////
-
 # 🚢 Batalha Naval - Nível Aventureiro
 
 Projeto educativo em C com uso de matriz 10x10 para simular um tabuleiro de batalha naval.
