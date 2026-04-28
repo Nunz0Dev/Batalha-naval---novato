@@ -48,12 +48,12 @@ Neste nível foram implementados:
 
 ## Sistema de poderes:
 
--Cruz
--Cone
--Octaedro (losango)
+- Cruz
+- Cone
+- Octaedro (losango)
 
 ## 🧠 Conceitos utilizados
 
--Uso de matrizes e loops aninhados
--Validação de limites do tabuleiro
--Aplicação dos poderes sem sobrescrever navios
+- Uso de matrizes e loops aninhados
+- Validação de limites do tabuleiro
+- Aplicação dos poderes sem sobrescrever navios
